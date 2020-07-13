@@ -1,0 +1,54 @@
+
+.bgImage{
+    background-image: url(img/download.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+}
+body{
+    font-family: cursive;
+    background-image: url(img/download.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+    
+} 
+h2{
+    color:rgb(229, 16, 16);
+        font-size: 40px;
+    font-family: cursive;
+}
+.alpha-text{
+    color:blueviolet
+}
+.level1 {
+    width:1140px;
+    margin-left: auto;
+        margin-right: auto;
+    margin-top: 20px;
+}
+
+.level2 {
+    background-color: #03ffff;
+padding: 30px;
+    border:5px solid #ff0000;
+}
+
+.level3 {
+    background-color: blueviolet;
+    width:25%;
+    padding: 30px;
+   border:2px solid;
+    margin-top: 20px;
+    
+}
+
+.level4 {
+    background-color: #f6ff14;
+    width: 25%;
+    margin-top:20px;
+    padding: 30px;
+    border:2px solid;
+}
